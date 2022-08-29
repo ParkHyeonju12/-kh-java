@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;kr.or.iei.studentview&apos; to &apos;kr.or.iei.student.view&apos;&#x0D;&#x0A;- Original project: &apos;studentMgr3&apos;&#x0D;&#x0A;- Original element: &apos;studentMgr3/src/kr.or.iei.studentview&apos;&#x0D;&#x0A;- Renamed element: &apos;studentMgr3/src/kr.or.iei.student.view&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;kr.or.iei.studentview&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;kr.or.iei.studentview" name="kr.or.iei.student.view" qualified="false" references="true" stamp="1656918446961" textual="false" version="1.0"/>
+</session>

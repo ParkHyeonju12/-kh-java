@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;kh.java.func.PringMsg.java&apos; to &apos;PrintMsg.java&apos;&#x0D;&#x0A;- Original project: &apos;firstProject&apos;&#x0D;&#x0A;- Original element: &apos;kh.java.func.PringMsg.java&apos;&#x0D;&#x0A;- Renamed element: &apos;kh.java.func.PrintMsg.java&apos;" description="Rename compilation unit &apos;PringMsg.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;kh.java.func{PringMsg.java" name="PrintMsg.java" references="false" stamp="1655774801841" version="1.0"/>
+</session>
